@@ -64,7 +64,7 @@ This script sets up 3 windows: editor, dev server, and an extra shell.
 ### Setup
 
 1. **Copy the Script Below:**
-    Save as `tmux-nvim.sh` in your project folder.
+    Save as `tmux-nvim.sh`.
 
     ```bash
     #!/bin/bash
